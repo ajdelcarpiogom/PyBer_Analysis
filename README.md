@@ -17,7 +17,6 @@ This image above also shows that from January 2019 through April-May 2019, the f
 
 ### Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 Some recommendations that could be made after analyzing this data could be:
 1) Some drivers could be highly discouraged to work in rural areas due to the lower population of riders, which could be easily improved if the fares become more affordable and accessible to those who need it for any situation.
 2) Since urban areas have such high demand, there would be no hurt in increasing its fares since these kinds of cities think of this kind of transportation as a necessity.
